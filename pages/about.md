@@ -10,4 +10,4 @@ permalink: /about/
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
 # About
-    This is a blog about graduation projects. The team leader is Jingtao Dun and the team members include Chengyu Kang and Junyang Xiong.
+ This is a blog about graduation projects. The team leader is Jingtao Dun and the team members include Chengyu Kang and Junyang Xiong.
