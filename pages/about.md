@@ -11,4 +11,4 @@ permalink: /about/
 
 # About
 
-This is a blog about graduation projects. The team leader is Jingtao Dun and the team members include Chengyu Kang and Junyang Xiong.
+  This is a blog about graduation projects. The team leader is Jingtao Dun and the team members include Chengyu Kang and Junyang Xiong.
